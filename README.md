@@ -1,7 +1,6 @@
 ![Alt text](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
 - 👋 Hi, I’m revy novian
-- 👀 I’m interested in everything about abstract thinking like logic Math stuff.
 - 🌱 I’m currently learning full stack Web Development
 
 **Languages and Tools:** 
